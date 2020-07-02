@@ -1,0 +1,11 @@
+
+
+#labelertable {
+	border-style: groove;
+	font-size: 1em;
+}
+
+th {
+	font-size: 0.8em;
+	border: solid;
+}
